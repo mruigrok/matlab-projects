@@ -1,5 +1,3 @@
-%%Chunk of code used from Dr.Nedialkov%%
-
 clear all; clf;
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 X = 8;
