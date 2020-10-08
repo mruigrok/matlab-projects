@@ -1,6 +1,6 @@
 function y = cheb(a,b,n)
     %Function to compute 'n' Chebyshev points of an interval [a,b]
-    if(a == b)
+    if(a >= b)
        fprintf("Enter a correct interval");
        return
     end
